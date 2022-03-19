@@ -1,0 +1,5 @@
+# Flask stuff
+__pycache__/
+
+# Environments
+.venv
